@@ -3,9 +3,11 @@ RENCANA BELAJAR DEVOPS
 - Devops vcs
   * ES6
   * Frametwork Devops vcs
-    ^ Angular
-    ^ React
+  ^ Vue
+  ^ React
+- Struktu Data Dasar
 - Devops ci/cd
-  ^ Laravel 
 - Devops mntring
+  ^ Laravel
 - docker
+- GitHUb
